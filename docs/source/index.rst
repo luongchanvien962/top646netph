@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+TOP646 Casino 4.0 - Leading AI-Driven Gaming in the Philippines and Asia
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TOP646 <https://top646.net.ph/>`_ is a pioneering online casino in the Philippines and Asia, offering a cutting-edge gaming experience. As the leading platform in the region, it embraces the Casino 4.0 revolution, using advanced AI technology to personalize player experiences and enhance security. TOP646 offers a wide variety of games from top developers, including slots, live casino, and fishing games, providing endless entertainment for all types of players. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The platform also boasts exciting promotions such as the 28 PHP registration bonus, a 150% welcome bonus, daily rewards, and exclusive offers like the Red Envelope Rainstorm, which can award up to PHP 888,888. Available on both PC and mobile, TOP646 ensures seamless access to its extensive game selection and innovative features.
 
-.. note::
+Address: 3rd floor of the Pbcom building, 6795 Ayala Avenue, corner V.A. Rufino St, Makati, 1209 Metro Manila, Philippines. 
 
-   This project is under active development.
+Phone: +63 8998993979. 
 
-Contents
---------
+Email: top646netph@gmail.com. 
 
-.. toctree::
+Website: https://top646.net.ph/ 
 
-   usage
-   api
+top646 #top646casino #top646slot #top646login #top646app
